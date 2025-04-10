@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu Pandey</h1>
-<h3 align="center">A passionate frontend and flutter developer from India</h3>
+<h3 align="center">Welcome to my developer space! I’m a **Flutter Developer** passionate about building modern, scalable mobile and web apps.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu2404" alt="pranshu2404" /></a> </p>
 
