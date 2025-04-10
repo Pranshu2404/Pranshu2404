@@ -1,65 +1,31 @@
 # 🚀 Flutter Developer Portfolio
 
-![Flutter Developer](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+![Working Dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Welcome to my developer space! I’m a **Flutter Developer** passionate about building modern, scalable mobile and web apps. I bring ideas to life using **Flutter**, **Firebase**, and **Docker**, with full-stack capabilities using **React**, **Node.js**, and more.
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
-### 🧪 Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+Hey there! I'm a **Flutter Developer** passionate about building beautiful, performant, and scalable apps across platforms. I specialize in **Flutter**, **Firebase**, **Docker**, and full-stack development with modern tools.
 
 ---
 
-## 📱 Featured Projects
+## 🧠 My Tech Stack
 
-### 🌟 Flutter News App
+> 🛠️ Hover over (or tap) the icons to learn more!
 
-An all-sports news aggregator using Flutter + RSS Feeds + Firebase.
-
-<img src="https://user-images.githubusercontent.com/your-image.gif" alt="Flutter News App" width="100%" />
-
-**Features:**
-- Category-wise Sports News
-- Live Match Scores (using API)
-- Firebase Auth + Firestore
-- News Sharing + TTS
+| Category       | Tools & Technologies |
+|----------------|---------------------|
+| 🎨 **Frontend** | <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="30"/> <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="30"/> <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" width="30"/> <img src="https://img.icons8.com/color/48/dart.png" title="Dart" width="30"/> <img src="https://img.icons8.com/color/48/react-native.png" title="React" width="30"/> |
+| ⚙️ **Backend & DevOps** | <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js" width="30"/> <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase" width="30"/> <img src="https://img.icons8.com/fluency/48/docker.png" title="Docker" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" width="30"/> |
+| 🧪 **Languages** | <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" width="30"/> <img src="https://img.icons8.com/color/48/c-programming.png" title="C" width="30"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="30"/> |
 
 ---
 
-## 📸 More Screenshots
+## 📫 Let's Connect!
 
-| Home Screen | News Detail | Profile Page |
-|------------|-------------|--------------|
-| ![home](https://your-link-to-home-image.png) | ![details](https://your-link-to-details-image.png) | ![profile](https://your-link-to-profile-image.png) |
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-24292E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> _"Code never lies, comments sometimes do."_ — Ron Jeffries
 
 ---
