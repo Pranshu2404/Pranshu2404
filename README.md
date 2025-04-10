@@ -1,31 +1,61 @@
-# 🚀 Hi, everyone
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-![Working Dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+###
 
-Hey there! I'm a **Flutter Developer** passionate about building beautiful, performant, and scalable apps across platforms. I specialize in **Flutter**, **Firebase**, **Docker**, and full-stack development with modern tools.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
----
+###
 
-## 🧠 My Tech Stack
+<h1 align="center">hey there 👋</h1>
 
-> 🛠️ Hover over (or tap) the icons to learn more!
+###
 
-| Category       | Tools & Technologies |
-|----------------|---------------------|
-| 🎨 **Frontend** | <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="30"/> <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="30"/> <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter" width="30"/> <img src="https://img.icons8.com/color/48/dart.png" title="Dart" width="30"/> <img src="https://img.icons8.com/color/48/react-native.png" title="React" width="30"/> |
-| ⚙️ **Backend & DevOps** | <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js" width="30"/> <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase" width="30"/> <img src="https://img.icons8.com/fluency/48/docker.png" title="Docker" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" width="30"/> |
-| 🧪 **Languages** | <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" width="30"/> <img src="https://img.icons8.com/color/48/c-programming.png" title="C" width="30"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++" width="30"/> |
+<h3 align="left">👩‍💻  About Me</h3>
 
----
+###
 
-## 📫 Let's Connect!
+<p align="left">Hi, I'm Pranshu Pandey, a passionate developer from IET Lucknow, specializing in Flutter and full-stack development.<br><br>🧠 Flutter & Firebase Specialist: I build cross-platform mobile apps using Flutter and integrate real-time features with Firebase services like Firestore, Auth, and Cloud Functions.<br><br>🧰 Full-Stack Developer: I work comfortably across the stack with Node.js, React, HTML/CSS, and REST APIs to deliver complete, end-to-end solutions.<br><br>🐳 DevOps Ready: I use Docker for containerization and efficient local development, ensuring consistency across environments.<br><br>💡 Problem Solver at Heart: Proficient in C, C++, and Python, I enjoy building optimized, scalable, and performance-oriented applications that solve real-world challenges.</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-24292E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-> _"Code never lies, comments sometimes do."_ — Ron Jeffries
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="58" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="58" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="58" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="58" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="58" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="58" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="58" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="58" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="58" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
